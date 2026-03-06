@@ -1,0 +1,1 @@
+# QA-DSA---22--sumOfFirstNumber
